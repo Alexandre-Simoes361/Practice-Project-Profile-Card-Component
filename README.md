@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Alexandre-Simoes361/Practice-Project-Profile-Card-Component/tree/main)
+- Live Site URL: [Live Site](https://incandescent-paletas-8db754.netlify.app/)
 
 ## My process
 
